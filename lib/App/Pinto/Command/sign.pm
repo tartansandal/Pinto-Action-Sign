@@ -98,4 +98,6 @@ You will want to ensure that this command hooks into your gpg user agent
 appropriately, otherwise, you will have to enter your keys passphrase many
 times.
 
+=back
+
 =cut
