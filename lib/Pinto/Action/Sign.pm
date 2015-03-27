@@ -8,7 +8,6 @@ use MooseX::MarkAsMethods ( autoclean => 1 );
 
 use MooseX::Types::Moose qw(ArrayRef Str);
 use Pinto::Types qw(Dir);
-#use Pinto::Util qw(throw);
 use CPAN::Checksums;
 
 #------------------------------------------------------------------------------
